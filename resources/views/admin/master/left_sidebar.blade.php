@@ -27,7 +27,7 @@
         <div class="content-side content-side-full">
             <ul class="nav-main">
                     <li>
-                        <a href="#"><i class="fa fa-dashboard"></i><span class="sidebar-mini-hide">Dashboard</span></a>
+                        <a href="{{route('dashboard')}}"><i class="fa fa-dashboard"></i><span class="sidebar-mini-hide">Dashboard</span></a>
                     </li>  
                     {{-- project --}}
 

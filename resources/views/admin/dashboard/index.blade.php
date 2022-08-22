@@ -8,7 +8,7 @@
         <div class="row gutters-tiny">
             <!-- Earnings -->
             <div class="col-md-6 col-xl-4">
-                <a class="block block-rounded block-transparent bg-gd-elegance" href="{{route('project.index')}}">
+                <a class="block block-rounded block-transparent bg-gd-corporate" href="{{route('project.index')}}">
                     <div class="block-content block-content-full block-sticky-options">
                         <div class="block-options">
                             <div class="block-options-item">
@@ -26,7 +26,7 @@
 
             <!-- Orders -->
             <div class="col-md-6 col-xl-4">
-                <a class="block block-rounded block-transparent bg-gd-dusk" href="{{route('SubProject.index')}}">
+                <a class="block block-rounded block-transparent bg-gd-sun" href="{{route('SubProject.index')}}">
                     <div class="block-content block-content-full block-sticky-options">
                         <div class="block-options">
                             <div class="block-options-item">
@@ -44,7 +44,7 @@
 
             <!-- New Customers -->
             <div class="col-md-6 col-xl-4">
-                <a class="block block-rounded block-transparent bg-gd-sea" href="{{route('dynamicPages.index')}}">
+                <a class="block block-rounded block-transparent bg-gd-cherry" href="{{route('dynamicPages.index')}}">
                     <div class="block-content block-content-full block-sticky-options" >
                         <div class="block-options">
                             <div class="block-options-item">
@@ -66,7 +66,7 @@
         <div class="row gutters-tiny">
             <!-- Earnings -->
             <div class="col-md-6 col-xl-4">
-                <a class="block block-rounded block-transparent bg-gd-dusk" href="{{route('slider.index')}}">
+                <a class="block block-rounded block-transparent bg-gd-leaf" href="{{route('slider.index')}}">
                     <div class="block-content block-content-full block-sticky-options">
                         <div class="block-options">
                             <div class="block-options-item">
@@ -84,7 +84,7 @@
 
             <!-- Orders -->
             <div class="col-md-6 col-xl-4">
-                <a class="block block-rounded block-transparent bg-gd-dusk" href="{{route('location.index')}}">
+                <a class="block block-rounded block-transparent bg-gd-sun" href="{{route('location.index')}}">
                     <div class="block-content block-content-full block-sticky-options">
                         <div class="block-options">
                             <div class="block-options-item">
@@ -124,7 +124,7 @@
 
              <!-- New Customers -->
              <div class="col-md-6 col-xl-4">
-                <a class="block block-rounded block-transparent bg-gd-sea" href="{{route('testimonial.index')}}">
+                <a class="block block-rounded block-transparent bg-gd-dusk" href="{{route('testimonial.index')}}">
                     <div class="block-content block-content-full block-sticky-options" >
                         <div class="block-options">
                             <div class="block-options-item">
